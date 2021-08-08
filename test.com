@@ -10,7 +10,7 @@
   "version": 1,
   "newAppLink": "",
   
-  "video": "https://cimoandroid.com/vids/fnf.mp4",
+  "video": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
   "privacy": "https://wwww.google.com",
   
   "spancount": 1,
