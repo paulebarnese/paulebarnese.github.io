@@ -1,9 +1,8 @@
-{
-  "msg4you": "if you find this file contact me at @c1m0h4m3dd0tj4r and lets work ",
+{ 
   "show": true,
-  "CheckR": true,
-  "com": false,
-  "published": false,
+  "CheckR": false,
+  "com": true,
+  "published": true,
   "version": 1,
   "newAppLink": "",
   "video": "https://drive.google.com/uc?id=1kHkG1pa6bMbup8i_-EasO0l3dGGxdVbK",
@@ -46,7 +45,7 @@
       "If you want to reach a particular scholar manager, you should add his or her name or nickname at the beginning of the message, for example:\nHey Bryce I am new to the axie community and wanted to learn more about your scholarship program. Thanks.\nPeople sense right away if you copy and paste text wherever you want without making any changes. They are people just like you, if you want to find out any information about them, you should address them by name, so that they feel that you spent some time on it."
     ]
   ],
-  "NativeCount": 1,
+  "NativeCount": 2,
   "fan": false,
   "snf": "mix",
   "adsfan": {
@@ -54,13 +53,13 @@
     "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
     "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
   },
-  "admob": false,
+  "admob": true,
   "adsadmb": {
-    "admb_banner": "ca-app-pub-3940256099942544/6300978111",
-    "admb_openad": "ca-app-pub-3940256099942544/3419835294",
-    "admb_inters": "ca-app-pub-3940256099942544/1033173712",
-    "admb_rewarded_inters": "ca-app-pub-3940256099942544/5354046379",
-    "admb_native": "ca-app-pub-3940256099942544/2247696110"
+    "admb_banner": "ca-app-pub-7526268824648661/2869047559",
+    "admb_openad": "ca-app-pub-7526268824648661/3864588547",
+    "admb_inters": "ca-app-pub-7526268824648661/9575246073",
+    "admb_rewarded_inters": "ca-app-pub-7526268824648661/2948938609",
+    "admb_native": "ca-app-pub-7526268824648661/1635856931"
   },
   "unity": false,
   "adsunity": {
