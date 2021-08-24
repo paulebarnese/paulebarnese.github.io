@@ -5,7 +5,8 @@
   "published": true,
   "version": 1,
   "newAppLink": "",
-  "video": "https://drive.google.com/uc?id=1kHkG1pa6bMbup8i_-EasO0l3dGGxdVbK",
+  "videos": "https://drive.google.com/uc?id=1kHkG1pa6bMbup8i_-EasO0l3dGGxdVbK",
+  "video": "https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CpAETIbke18EFUa28TUj82nKTmelRIJJdnUkJZHtL_-NtDPRHDKZPqmfrCD5KpJmWrWCa__BCysELnryiGOl6QBqe_SL-rJt-A0GWdp_90lRbuWmWk3ZJRRAUg0WI2HJnLT2gv93Pw_ImdacKTq8fOgpL_acybc07GBgOPOlLkxvkUPIIugZFx2qDCG2bklBmT1gE2Homi1SRJjl5n4hXRH0J-Gf7NKL-YnkVVRV-QcHKfFu6-laz20uWm5eOfbiyODMVKUfLxdudebHh5js0FAE-7dJp99PgsiliMWRzEw_eOY63TUUcZtwhrxZTm6QyghzevVtnBQdtwE7RwfYB15YM_pVdIt23KaeI4kQlSPXGUJjPEbmcmwM-rH-k7GYfqTYSMgLZqTF_SLZTb8QVY-ZAqo8KQRviekZ1BATpltW5X9lDTFQZXV7KgWsquLTqQjJR0Ouojx3jK_obOj0gTnhGjg4DwfmmhCkm4cViF6HdivgeVrgP3KGYRCpmqSY3Q_UB4MBc-NdhqIs5JLcb3y5d9wVwyVx_-xdQn59liBWABNHohjg4a90W6f0nm1fcrmXpHQtNFjHWwjy3tB5pDbIqVt0WJAGq6y1lVm5Nivo6xEbyToq1NzvnAO_KVgT_lf9kVuyO1defOZn7jikZeU38yJqUqe-ww4A8YCf4gAh-qRwoRmVNszNUp5e4yFCcb36EhCPjDF4ZFezrvF90kExaOqFGgw0oloy0hENrYbJ_AA.m3u8",
   "privacy": "https://paulebarnese.github.io/privacy.html",
   "spancount": 1,
   "guide": [
