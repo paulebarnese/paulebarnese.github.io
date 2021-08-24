@@ -1,6 +1,6 @@
 { 
   "show": true,
-  "CheckR": false,
+  "CheckR": true,
   "com": true,
   "published": true,
   "version": 1,
@@ -45,7 +45,7 @@
       "If you want to reach a particular scholar manager, you should add his or her name or nickname at the beginning of the message, for example:\nHey Bryce I am new to the axie community and wanted to learn more about your scholarship program. Thanks.\nPeople sense right away if you copy and paste text wherever you want without making any changes. They are people just like you, if you want to find out any information about them, you should address them by name, so that they feel that you spent some time on it."
     ]
   ],
-  "NativeCount": 2,
+  "NativeCount": 3,
   "fan": false,
   "snf": "mix",
   "adsfan": {
