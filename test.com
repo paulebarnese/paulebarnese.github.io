@@ -38,7 +38,7 @@
   ],
   
   "NativeCount":1,
-  "fan": false,
+  "fan": true,
   "snf":"mix",
   "adsfan": {
     "fan_inters": "IMG_16_9_APP_INSTALL#147772497126061_147861650450479",
