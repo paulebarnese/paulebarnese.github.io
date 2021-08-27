@@ -1,6 +1,6 @@
 { 
   "show": true,
-  "CheckR": false,
+  "CheckR": true,
   "com": true,
   "published": true,
   "version": 1,
