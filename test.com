@@ -37,7 +37,7 @@
         ] 
   ],
   
-  "NativeCount":1,
+  "NativeCount":3,
   "fan": true,
   "snf":"mix",
   "adsfan": {
