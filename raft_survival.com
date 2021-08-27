@@ -9,7 +9,7 @@
   "version": 1,
   "newAppLink": "",
   
-  "video": "https://drive.google.com/uc?id=1u4AJ_wfkBDl-zqhK2dYAdXysKPOAbcuV",
+  "video": "https://drive.google.com/uc?id=12mnN1z7sUEjYCKPKur_1ZFIyV9xZz8BW",
   "privacy": "https://paulebarnese.github.io/privacy.html",
   
   "spancount": 1,
