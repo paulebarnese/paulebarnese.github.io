@@ -2,8 +2,8 @@
     
   "show": true, 
   "CheckR": true, 
-  "com": false,
-  "published":false,
+  "com": true,
+  "published":true,
   
   
   "version": 1,
