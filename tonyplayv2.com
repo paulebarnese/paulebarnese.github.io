@@ -47,7 +47,7 @@
         "https://player-api.new.livestream.com/accounts/27130247/events/8196478/broadcasts/212873574.secure.m3u8",
         "https://www.telemaroc.tv/img/logo.png"
       ],
-      "tv": [
+      "tony_play": [
         [
           false,
           "Wac Vs Ocs",
