@@ -53,7 +53,7 @@
         ] 
   ],
   
-  "NativeCount":3,
+  "NativeCount":1,
   "fan": false,
   "snf":"mix",
   "adsfan": {
@@ -61,15 +61,15 @@
     "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
     "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
   },
-  "admob": false,
+  "admob": true,
   "adsadmb": {
-    "admb_banner": "ca-app-pub-3503534924917767/7235495873",
-    "admb_openad": "ca-app-pub-3503534924917767/2311499920",
-    "admb_inters": "ca-app-pub-3503534924917767/5922414208",
-    "admb_rewarded_inters": "ca-app-pub-3503534924917767/5922414208",
-    "admb_native": "ca-app-pub-3503534924917767/4609332530"
+    "admb_banner": "ca-app-pub-9983687431904696/2704228074",
+    "admb_openad": "ca-app-pub-9983687431904696/9828873775",
+    "admb_inters": "ca-app-pub-9983687431904696/2141955447",
+    "admb_rewarded_inters": "ca-app-pub-9983687431904696/2141955447",
+    "admb_native": "ca-app-pub-9983687431904696/9849055079"
   },
-  "unity": true,
+  "unity": false,
   "adsunity": {
     "unity_id": "3978659",
     "unity_inters": "Android_Interstitial"
