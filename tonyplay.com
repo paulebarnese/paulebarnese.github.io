@@ -1,14 +1,14 @@
     {
       
-      "show": false,
-      "CheckR": false,
+      "show": true,
+      "CheckR": true,
       "com": true,
       "published": true,
       
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://play.google.com/store/apps/details?id=com.paulebarnese.tonyplay",
+      "video": "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
       "privacy": "https://paulebarnese.github.io/privacy.html",
       
       "spancount": 1,
