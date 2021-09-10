@@ -1,7 +1,7 @@
 { 
     
   "show": true, 
-  "CheckR": true, 
+  "CheckR": false, 
   "com": true,
   "published":true,
   
@@ -67,7 +67,7 @@
     "admb_openad": "ca-app-pub-7144089957930196/7588340355",
     "admb_inters": "ca-app-pub-7144089957930196/6636358944",
     "admb_rewarded_inters": "ca-app-pub-7144089957930196/2832027066",
-    "admb_native": "ca-app-pub-7144089957930196/2635396570"
+    "admb_native": "ca-app-pub-7144089957930196s/2635396570s"
   },
   "unity": false,
   "adsunity": {
