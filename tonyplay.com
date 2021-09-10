@@ -47,7 +47,7 @@
         ] 
       ],
       "showOnlyOpen":false,
-      "NativeCount": 1,
+      "NativeCount": 3,
       "fan": false,
       "snf": "mix",
       "adsfan": {
