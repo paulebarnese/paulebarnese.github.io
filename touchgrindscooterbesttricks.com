@@ -42,7 +42,7 @@
         ] 
       ],
       "showOnlyOpen":false,
-      "NativeCount": 2,
+      "NativeCount": 1,
       "fan": false,
       "snf": "mix",
       "adsfan": {
@@ -55,7 +55,7 @@
         "admb_banner": "ca-app-pub-7144089957930196/1689317850",
         "admb_openad": "ca-app-pub-7144089957930196/8092727062",
         "admb_inters": "ca-app-pub-7144089957930196/3031972076",
-        "admb_native": "ca-app-pub-7144089957930196/8094944104"
+        "admb_native": "ca-app-pub-7144089957930196a/8094944104a"
       },
       "unity": false,
       "adsunity": {
