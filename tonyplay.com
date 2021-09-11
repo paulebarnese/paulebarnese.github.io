@@ -8,8 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "http://13.yaciaptk.xyz/live/88824257/index.m3u8",      
-      "videos": "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
+      "videos": "http://13.yaciaptk.xyz/live/88824257/index.m3u8",      
+      "video": "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
       "privacy": "https://paulebarnese.github.io/privacy.html",
       
       "spancount": 1,
