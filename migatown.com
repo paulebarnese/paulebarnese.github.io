@@ -97,7 +97,7 @@
            ]
       ],
       "showOnlyOpen":false,
-      "NativeCount": 3,
+      "NativeCount": 1,
       "fan": false,
       "snf": "mix",
       "adsfan": {
@@ -107,10 +107,10 @@
       },
       "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-6865356671676191/1021542941",
-        "admb_openad": "ca-app-pub-6865356671676191/2224951580",
-        "admb_inters": "ca-app-pub-6865356671676191/8537070885",
-        "admb_native": "ca-app-pub-6865356671676191/5399771659"
+        "admb_banner": "ca-app-pub-7144089957930196/5531579699",
+        "admb_openad": "ca-app-pub-7144089957930196/1272770483",
+        "admb_inters": "ca-app-pub-7144089957930196/5806911867",
+        "admb_native": "ca-app-pub-7144089957930196/4270468914"
       },
       "unity": false,
       "adsunity": {
