@@ -8,8 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",      
-      "videos": "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
+      "videos": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",      
+      "video": "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
       "privacy": "https://paulebarnese.github.io/privacy.html",
       
       "spancount": 1,
