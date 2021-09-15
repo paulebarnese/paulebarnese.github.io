@@ -98,20 +98,20 @@
            ]
       ],
       "showOnlyOpen":false,
-      "NativeCount": 3,
-      "fan": true,
+      "NativeCount": 2,
+      "fan": false,
       "snf": "nb",
       "adsfan": {
         "fan_inters": "220801140096909_220801183430238",
         "fan_native": "220801140096909_220801190096904",
         "fan_native_banner": "220801140096909_220801173430239"
       },
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-7144089957930196/5531579699",
-        "admb_openad": "ca-app-pub-7144089957930196/1272770483",
-        "admb_inters": "ca-app-pub-7144089957930196/5806911867",
-        "admb_native": "ca-app-pub-7144089957930196/4270468914"
+        "admb_banner": "ca-app-pub-2467024233846885/4020037532",
+        "admb_openad": "ca-app-pub-2467024233846885/6802947690",
+        "admb_inters": "ca-app-pub-2467024233846885/1742192703",
+        "admb_native": "ca-app-pub-2467024233846885/9429111037"
       },
       "unity": false,
       "adsunity": {
