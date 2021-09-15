@@ -49,14 +49,14 @@
       ],
       "showOnlyOpen":false,
       "NativeCount": 2,
-      "fan": false,
+      "fan": true,
       "snf": "nb",
       "adsfan": {
         "fan_inters": "216416430384961_216416490384955",
         "fan_native": "216416430384961_216416483718289",
         "fan_native_banner": "216416430384961_216416497051621"
       },
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-2467024233846885/1526570288",
         "admb_openad": "ca-app-pub-2467024233846885/6587325279",
