@@ -7,9 +7,8 @@
       
       "version": 1,
       "newAppLink": "",
-      
-      "videos": "https://d2yx87if4hlknw.cloudfront.net/out/v1/44a3411ee83c4e94b28a36e400cd20c5/index.m3u8",
-      "video": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
+      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "videos": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
       "privacy": "https://paulebarnese.github.io/privacy.html",
       
       "spancount": 1,
