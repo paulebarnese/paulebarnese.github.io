@@ -43,7 +43,7 @@
       "showOnlyOpen":false,
       "NativeCount": 3,
       "fan": true,
-      "snf": "mix",
+      "snf": "nb",
       "adsfan": {
         "fan_inters": "1335163020219855_1335163063553184",
         "fan_native": "1335163020219855_1335163060219851",
