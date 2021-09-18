@@ -7,7 +7,7 @@
       
       "version": 1,
       "newAppLink": "",
-      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",    
+      "video": "https://d273s7pioey7ib.cloudfront.net/out/v1/2c23f4d49a5e464c83fb76bc931ed9ef/index_4.m3u8",    
       "videoss": "https://drive.google.com/uc?id=1X0tmsiAdC9D58vKvpv58TJauZ5-3TtPt",
       "privacy": "https://paulebarnese.github.io/privacy.html",
       
