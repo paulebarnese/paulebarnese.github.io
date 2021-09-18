@@ -65,10 +65,28 @@
       
       "more": [ 
         [
-          "false",
-          "https://www..com/com/lulubox_tips.png",
-          "com.facebook.lite",
-          "lite"
+          "true",
+          "https://play-lh.googleusercontent.com/YH0T0zIHrg8aLb6MrXTfAXi9b7df-TbedQPqJks8rqxkX7F6JecpHPyHdpfMwMC9_5E=s180",
+          "com.firasnimo.scooter",
+          "scooter"
+        ],
+        [
+          "true",
+          "https://play-lh.googleusercontent.com/QaXsn-7LHdBfc_vnlW0jZD3GZWG8pXydyP0YLwC9aUgsn1FDcUBAv-1C3vNGOKnCU9EN=s180",
+          "com.firasnimo.touchgrind2",
+          "touchgrind2"
+        ],
+        [
+          "true",
+          "https://play-lh.googleusercontent.com/n12D-kZuj95Yx1Yu_pP8DkqP2QdMHAIs8YrVfXwbnhbRU6LuQkDLljqij3mK_mzZDA=s180",
+          "com.chadoxvicki.bmx_touchgrind",
+          "bmx_touchgrind"
+        ],
+        [
+          "true",
+          "https://play-lh.googleusercontent.com/4P7tq0Vq2f8tM_ozUB0KhoEb9RsKAxN2cRwEOvu_2cZYdOifdZNJrOiIPjIZ1HPPdg=s180",
+          "com.barenharte.scoter",
+          "scoter"
         ]
       ]
     }
