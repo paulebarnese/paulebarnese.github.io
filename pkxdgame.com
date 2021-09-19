@@ -8,8 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
-      "videos": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+      "videos": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
       "privacy": "https://paulebarnese.github.io/privacy.html",
       
       "spancount": 1,
@@ -52,10 +52,10 @@
       },
       "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-6630515083606916/3721999536",
-        "admb_openad": "ca-app-pub-6630515083606916/1227698134",
-        "admb_inters": "ca-app-pub-6630515083606916/3181560597",
-        "admb_native": "ca-app-pub-6630515083606916/1366109569"
+        "admb_banner": "ca-app-pub-2467024233846885/6655462244",
+        "admb_openad": "ca-app-pub-2467024233846885/5107766223",
+        "admb_inters": "ca-app-pub-2467024233846885/2046488616",
+        "admb_native": "ca-app-pub-2467024233846885/2716217230"
       },
       "unity": false,
       "adsunity": {
