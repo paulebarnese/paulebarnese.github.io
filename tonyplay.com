@@ -7,7 +7,7 @@
       
       "version": 1,
       "newAppLink": "",
-      "video": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",    
+      "video": "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8",    
       "videoss": "https://drive.google.com/uc?id=1X0tmsiAdC9D58vKvpv58TJauZ5-3TtPt",
       "privacy": "https://paulebarnese.github.io/privacy.html",
       
